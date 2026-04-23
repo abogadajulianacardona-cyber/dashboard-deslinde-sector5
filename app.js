@@ -1,5 +1,5 @@
 // Configuration
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1lFmHYE8f97PN0PtiRli74NOgP5t7K3Z7/export?format=csv&gid=1107597135';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1lFmHYE8f97PN0PtiRli74NOgP5t7K3Z7/export?format=csv&gid=51617182';
 const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
 
 // Global variables
